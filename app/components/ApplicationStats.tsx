@@ -1,4 +1,7 @@
+"use client";
+
 import { Pie } from 'react-chartjs-2';
+
 
 const ApplicationStats = ({ stats }) => {
   const data = {

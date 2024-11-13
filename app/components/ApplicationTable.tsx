@@ -1,3 +1,5 @@
+"use client";
+
 const ApplicationTable = ({ applications }) => {
     return (
       <table className="min-w-full border">
